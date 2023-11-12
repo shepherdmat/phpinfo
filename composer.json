@@ -1,0 +1,31 @@
+{
+  "name": "shepherdmat/phpinfo",
+  "type": "project",
+  "description": "Phpinfo allows you to easily retrieve and process information from the `phpinfo()` function.",
+  "keywords": [
+    "phpinfo()",
+    "phpinfo",
+    "php info"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maciej Owczarek",
+      "email": "mc.owczarek@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4|^8.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Shepherdmat\\Phpinfo\\": "src/"
+    },
+    "exclude-from-classmap": [
+      "/tests/"
+    ]
+  }
+}
