@@ -1,7 +1,7 @@
 {
   "name": "shepherdmat/phpinfo",
   "type": "project",
-  "description": "Phpinfo allows you to easily retrieve and process information from the `phpinfo()` function.",
+  "description": "Phpinfo allows you to easily retrieve and process information from the phpinfo function.",
   "keywords": [
     "phpinfo()",
     "phpinfo",
