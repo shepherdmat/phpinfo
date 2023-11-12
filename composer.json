@@ -3,7 +3,6 @@
   "type": "project",
   "description": "Phpinfo allows you to easily retrieve and process information from the phpinfo function.",
   "keywords": [
-    "phpinfo()",
     "phpinfo",
     "php info"
   ],
